@@ -1,0 +1,5 @@
+total 4
+drwxr-xr-x 1 Pedro 197609 0 Aug 11 02:15 ./
+drwxr-xr-x 1 Pedro 197609 0 Aug 11 02:12 ../
+drwxr-xr-x 1 Pedro 197609 0 Aug 11 02:12 .git/
+-rw-r--r-- 1 Pedro 197609 0 Aug 11 02:15 f1.txt
